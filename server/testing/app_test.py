@@ -63,4 +63,3 @@ class TestPlant:
         assert(type(data) == dict)
         assert(data["id"])
         assert(data["name"])
-                
